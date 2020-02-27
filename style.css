@@ -1,10 +1,31 @@
-/* your CSS goes into this file. For example:
-
-p {
-  color: #ff00ff;
-  text-decoration: underline;
+h1 {
+  color: mediumslateblue;
+  font-variant: small-caps;
+  font-style: oblique;
 }
 
-btw, this is a CSS comment. Feel free to delete it.
+h2 {
+  color: orangered;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
 
- */
+p {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 12;
+}
+
+<p id="copyright"> {
+  text-emphasis: 20%;
+  text-indent: 70%;
+}
+
+ul {
+  list-style-type: square;
+}
+
+h3 {
+  color: forestgreen;
+  font-weight: 200;
+  text-decoration-line: underline;
+}
+
